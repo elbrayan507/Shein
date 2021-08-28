@@ -749,7 +749,7 @@ a:focus, a:active {
   left: auto;
 }
 .landing-page .section-clients {
-  padding: 5px 0;
+  padding: 20px 0;
 }
 .landing-page .section-clients .info .icon {
   background: transparent;
@@ -1654,7 +1654,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     background: rgba(0, 0, 0, 0.75);
   }
   .landing-page .parallax {
-    height: 550px;
+    height: 600px;
   }
   .landing-page .parallax .parallax-background img {
     width: auto;
