@@ -1147,7 +1147,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
    }
 
    .landing-page .section-demo{
-    margin-top: 1px;
+    margin-top: 23px;
    }
 
    .landing-page .section-demo a{
@@ -1167,7 +1167,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
    }
 
    .landing-page .section-demo .row:first-child{
-    margin-bottom: 100px;
+    margin-bottom: 70px;
    }
 
    .landing-page .section-demo .carousel-inner{
@@ -1176,7 +1176,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
   }
 
    .landing-page .section-features{
-        margin: -63px 0;
+        margin: 0px 0;
    }
 
    .landing-page .section-features .card{
@@ -1679,7 +1679,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     height: 400px;
   }
   .landing-page .carousel-indicators{
-    bottom: -30px;
+    bottom: -39px;
   }
   .landing-page .carousel{
     min-height: 256px;
