@@ -416,7 +416,7 @@ a:focus, a:active {
 }
 
 .section {
-  padding: 30px 0;
+  padding: 0px 0;
   position: relative;
   background-color: #FFFFFF;
 }
@@ -1091,7 +1091,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
    .landing-page .section-presentation {
     overflow: hidden;
     width: 100%;
-    min-height: 600px;
+    min-height: 350px;
     margin-top: 30px;
    }
 
@@ -1676,7 +1676,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     margin: 0;
   }
   .landing-page .section-presentation{
-    height: auto;
+    height: 300px;
   }
   .landing-page .carousel-indicators{
     bottom: -30px;
