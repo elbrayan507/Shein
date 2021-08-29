@@ -917,7 +917,7 @@ a:focus, a:active {
     display: block;
     z-index: 1;
     content: "";
-    opacity: .7;
+    opacity: .1;
 }
 .filter-gradient.gray:after{
 /* IE9 SVG, needs conditional override of 'filter' to 'none' */
