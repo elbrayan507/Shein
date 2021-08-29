@@ -873,9 +873,9 @@ a:focus, a:active {
       font-weight: 200;
       color: #333;
       margin-bottom: 20px;
-      font-size: 30px;
+      font-size: 40px;
       position: relative;
-      line-height: 33px;
+      line-height: 39px;
 }
 
 .landing-page .navbar-top {
@@ -1034,7 +1034,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
 }
 
 .landing-page .section-presentation .description{
-  padding: 50px 9px 0;
+  padding: 50px 15px 0;
 }
 
 .landing-page .parallax .description h2{
