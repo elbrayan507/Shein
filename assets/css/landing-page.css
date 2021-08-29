@@ -749,7 +749,7 @@ a:focus, a:active {
   left: auto;
 }
 .landing-page .section-clients {
-  padding: 20px 0;
+  padding: 20px 160px;
 }
 .landing-page .section-clients .info .icon {
   background: transparent;
