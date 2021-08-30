@@ -871,7 +871,7 @@ a:focus, a:active {
  .header-text{
       text-transform: uppercase;
       font-weight: 200;
-      color: #333;
+      color: #EEEE;
       margin-bottom: 20px;
       font-size: 40px;
       position: relative;
