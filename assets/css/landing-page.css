@@ -1081,7 +1081,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     display: block;
     width: 100%;
     margin: 0px auto;
-    padding-top: 48px;
+    padding-top: 0px;
   }
    .landing-page .logos li{
     display: inline-block;
@@ -1670,7 +1670,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     margin-top: 10px;
   }
   .landing-page .logos ul{
-    padding-top: 20px;
+    padding-top: 0px;
   }
   .landing-page .section-presentation{
     margin: 0;
