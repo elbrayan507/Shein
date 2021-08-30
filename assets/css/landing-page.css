@@ -418,11 +418,11 @@ a:focus, a:active {
 .section {
   padding: 0px 0;
   position: relative;
-  background-color: #FFFFFF;
+  background-color: #778beb;
 }
 
 .section-gray {
-  background-color: #EEEEEE;
+  background-color: #f8a5c2;
 }
 
 .section-white {
@@ -1233,7 +1233,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
    .landing-page .section-features .card  p{
         font-size: 16px;
         line-height: 22px;
-        color: #777;
+        color: #EEE;
    }
 
 
