@@ -871,7 +871,7 @@ a:focus, a:active {
  .header-text{
       text-transform: uppercase;
       font-weight: 200;
-      color: #EEEE;
+      color: #FFFFFFFF;
       margin-bottom: 20px;
       font-size: 40px;
       position: relative;
@@ -1276,7 +1276,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
 
    .landing-page .section-testimonial .carousel-inner  p{
     margin-top: 10px;
-    color: #EEEE;
+    color: #FFFFFFFF;
    }
 
    .landing-page .section-testimonial .carousel-control {
