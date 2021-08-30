@@ -1203,7 +1203,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
       border-color: #CCE7F5;
     }
     .landing-page .section-features .card.card-blue .icon i{
-      color:#00bbff;
+      color:#546de5;
     }
     .landing-page .section-features .card.card-green{
       border-color: #BDF8C0;
@@ -1276,7 +1276,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
 
    .landing-page .section-testimonial .carousel-inner  p{
     margin-top: 10px;
-    color: #9a9a9a;
+    color: #EEEE;
    }
 
    .landing-page .section-testimonial .carousel-control {
