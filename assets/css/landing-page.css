@@ -888,7 +888,7 @@ a:focus, a:active {
 
 .landing-page .parallax {
   width: 100%;
-  height: 630px;
+  height: 661px;
   overflow: hidden;
   display: block;
   background-size: 100%;
@@ -1654,14 +1654,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     background: rgba(0, 0, 0, 0.75);
   }
   .landing-page .parallax {
-    height: 600px;
+    height: 737px;
   }
   .landing-page .parallax .parallax-background img {
     width: auto;
     height: 100%;
   }
   .landing-page .parallax .description{
-    margin-top: 65px;  }
+    margin-top: 125px;  }
   .landing-page .parallax .buttons{
     margin: 20px 0;
   }
